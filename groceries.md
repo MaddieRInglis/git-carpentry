@@ -2,5 +2,5 @@
 
 * Avocado £4
 * Lime £2
-* Salt £0.20
+* Salt £0.40
 * Tomatoes £2
