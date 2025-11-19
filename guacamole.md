@@ -5,6 +5,6 @@
 * avocado - £2
 * lime -  £1
 * salt - £0.10
-* tomatoes - £1
+* red onions - £1
 
 ## Instructions
